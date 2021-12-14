@@ -1,4 +1,5 @@
   function sendMoney() {
+    let a = alert("Transaction Successfully!")
    var enterName = document.getElementById("enterName").value;
    var enterAmount = parseInt(document.getElementById("enterAmount").value);
    var enterSName = document.getElementById("enterSName").value;
